@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/TodoList/static/css/main.a7566796.css",
-    "main.js": "/TodoList/static/js/main.83ce1b8c.js",
-    "index.html": "/TodoList/index.html",
-    "main.a7566796.css.map": "/TodoList/static/css/main.a7566796.css.map",
-    "main.83ce1b8c.js.map": "/TodoList/static/js/main.83ce1b8c.js.map"
+    "main.css": "/pokedex/static/css/main.a7566796.css",
+    "main.js": "/pokedex/static/js/main.83ce1b8c.js",
+    "index.html": "/pokedex/index.html",
+    "main.a7566796.css.map": "/pokedex/static/css/main.a7566796.css.map",
+    "main.83ce1b8c.js.map": "/pokedex/static/js/main.83ce1b8c.js.map"
   },
   "entrypoints": [
     "static/css/main.a7566796.css",
