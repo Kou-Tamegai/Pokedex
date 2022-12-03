@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.cardContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  /* margin-top: 24px; */
+  place-items: center;
+} 
+
+button {
+  background-color: rgb(250, 155, 72);
+  font-size: 32px;
+  font-weight: bold;
+  padding: 32px 88px;
+  margin: 42px;
+  cursor: pointer;
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0px 0px 27px 10px #777777;
+  transition: all .4s;
+}
+
+button:hover {
+  transform: translateY(6px);
+  box-shadow: none;
+}
+
+.navbar {
+  background-color: rgb(250, 155, 72);
+  font-weight: bold;
+  font-size: 34px;
+  padding: 24px;
+}

@@ -1,0 +1,30 @@
+.card {
+  background-color: rgb(195, 223, 247);
+  box-shadow: 12px -6px 27px 4px #777777;
+  width: 250px;
+  margin: 12px;
+  padding: 12px 0;
+  border-radius: 12px;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.cardName {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 4px 0;
+}
+
+.cardTypes {
+ margin: 4px;
+ font-size: 14px;
+}
+
+.cardInfo {
+  margin: 14px;
+}
+
+.cardInfo p {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+}
